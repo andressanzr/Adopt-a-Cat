@@ -1,3 +1,3 @@
 
-<h1>Trabajando con varias animaciones en CSS</h1>
-<p>Proyecto de DAM</p>
+<h1>Working with simple CSS animations</h1>
+<p>School project</p>
